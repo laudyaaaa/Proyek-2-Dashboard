@@ -1,0 +1,38 @@
+Baris awal (stg_mentah)                : 11008
+Dibuang: tanggal kosong                : 13
+Dibuang: duplikat judul+waktu          : 1
+Dibuang: di luar rentang analisis      : 1886
+Baris akhir (lolos, masuk tabel berita): 9108
+Rentang data                           : 2025-01-01 12:30:00 s/d 2026-10-28 05:10:00
+
+Jumlah per grup kategori:
+UMUM                       7109
+SETDA/PERANGKAT DAERAH      679
+EVENT KHUSUS                450
+GUBERNUR/WAKIL GUBERNUR     417
+OLAHRAGA                    386
+LAINNYA                      67
+
+Jumlah per bulan:
+2025-01    857
+2025-02    737
+2025-03    789
+2025-04    556
+2025-05    499
+2025-06    433
+2025-07    614
+2025-08    417
+2025-09    404
+2025-10    485
+2025-11    352
+2025-12    316
+2026-01    231
+2026-02    232
+2026-03    200
+2026-04    296
+2026-05    244
+2026-06    265
+2026-07    294
+2026-08    286
+2026-09    327
+2026-10    274

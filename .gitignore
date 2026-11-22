@@ -1,0 +1,14 @@
+# Rahasia: password database (jangan pernah di-upload)
+.env
+.streamlit/secrets.toml
+
+# File sementara Python
+__pycache__/
+*.pyc
+.vscode/
+
+# Cadangan versi lama dan dokumen pribadi (tidak dipakai aplikasi)
+cadangan_sebelum_*/
+rps matkul terkait/
+Claude outputs/
+*.docx

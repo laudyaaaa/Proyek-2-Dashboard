@@ -1,0 +1,236 @@
+﻿jenis,label,grup_kategori,tahun,jumlah
+sumber,Belum terkelompok,EVENT KHUSUS,2025,181
+sumber,Belum terkelompok,EVENT KHUSUS,2026,48
+sumber,Belum terkelompok,GUBERNUR/WAKIL GUBERNUR,2025,13
+sumber,Belum terkelompok,GUBERNUR/WAKIL GUBERNUR,2026,7
+sumber,Belum terkelompok,LAINNYA,2025,5
+sumber,Belum terkelompok,LAINNYA,2026,5
+sumber,Belum terkelompok,OLAHRAGA,2025,88
+sumber,Belum terkelompok,OLAHRAGA,2026,54
+sumber,Belum terkelompok,SETDA/PERANGKAT DAERAH,2025,72
+sumber,Belum terkelompok,SETDA/PERANGKAT DAERAH,2026,23
+sumber,Belum terkelompok,UMUM,2025,591
+sumber,Belum terkelompok,UMUM,2026,247
+sumber,BUMN/bank/swasta,LAINNYA,2025,1
+sumber,BUMN/bank/swasta,LAINNYA,2026,2
+sumber,BUMN/bank/swasta,OLAHRAGA,2025,65
+sumber,BUMN/bank/swasta,OLAHRAGA,2026,2
+sumber,BUMN/bank/swasta,SETDA/PERANGKAT DAERAH,2025,11
+sumber,BUMN/bank/swasta,SETDA/PERANGKAT DAERAH,2026,1
+sumber,BUMN/bank/swasta,UMUM,2025,443
+sumber,BUMN/bank/swasta,UMUM,2026,277
+sumber,Diskominfo Jatim,EVENT KHUSUS,2025,1
+sumber,Diskominfo Jatim,EVENT KHUSUS,2026,1
+sumber,Diskominfo Jatim,LAINNYA,2025,5
+sumber,Diskominfo Jatim,LAINNYA,2026,7
+sumber,Diskominfo Jatim,OLAHRAGA,2026,6
+sumber,Diskominfo Jatim,SETDA/PERANGKAT DAERAH,2025,102
+sumber,Diskominfo Jatim,SETDA/PERANGKAT DAERAH,2026,29
+sumber,Diskominfo Jatim,UMUM,2025,198
+sumber,Diskominfo Jatim,UMUM,2026,144
+sumber,DPRD,GUBERNUR/WAKIL GUBERNUR,2025,20
+sumber,DPRD,GUBERNUR/WAKIL GUBERNUR,2026,15
+sumber,DPRD,LAINNYA,2026,1
+sumber,DPRD,OLAHRAGA,2025,2
+sumber,DPRD,SETDA/PERANGKAT DAERAH,2025,30
+sumber,DPRD,SETDA/PERANGKAT DAERAH,2026,20
+sumber,DPRD,UMUM,2025,330
+sumber,DPRD,UMUM,2026,253
+sumber,Gubernur/Pemprov Jatim,EVENT KHUSUS,2025,11
+sumber,Gubernur/Pemprov Jatim,EVENT KHUSUS,2026,5
+sumber,Gubernur/Pemprov Jatim,GUBERNUR/WAKIL GUBERNUR,2025,217
+sumber,Gubernur/Pemprov Jatim,GUBERNUR/WAKIL GUBERNUR,2026,127
+sumber,Gubernur/Pemprov Jatim,LAINNYA,2025,9
+sumber,Gubernur/Pemprov Jatim,LAINNYA,2026,19
+sumber,Gubernur/Pemprov Jatim,OLAHRAGA,2025,12
+sumber,Gubernur/Pemprov Jatim,OLAHRAGA,2026,7
+sumber,Gubernur/Pemprov Jatim,SETDA/PERANGKAT DAERAH,2025,163
+sumber,Gubernur/Pemprov Jatim,SETDA/PERANGKAT DAERAH,2026,86
+sumber,Gubernur/Pemprov Jatim,UMUM,2025,260
+sumber,Gubernur/Pemprov Jatim,UMUM,2026,194
+sumber,Kampus/sekolah,EVENT KHUSUS,2025,3
+sumber,Kampus/sekolah,GUBERNUR/WAKIL GUBERNUR,2025,2
+sumber,Kampus/sekolah,GUBERNUR/WAKIL GUBERNUR,2026,5
+sumber,Kampus/sekolah,LAINNYA,2025,2
+sumber,Kampus/sekolah,LAINNYA,2026,1
+sumber,Kampus/sekolah,OLAHRAGA,2025,18
+sumber,Kampus/sekolah,OLAHRAGA,2026,12
+sumber,Kampus/sekolah,SETDA/PERANGKAT DAERAH,2025,12
+sumber,Kampus/sekolah,SETDA/PERANGKAT DAERAH,2026,6
+sumber,Kampus/sekolah,UMUM,2025,793
+sumber,Kampus/sekolah,UMUM,2026,126
+sumber,Ormas/komunitas,EVENT KHUSUS,2025,6
+sumber,Ormas/komunitas,OLAHRAGA,2025,11
+sumber,Ormas/komunitas,OLAHRAGA,2026,11
+sumber,Ormas/komunitas,SETDA/PERANGKAT DAERAH,2025,4
+sumber,Ormas/komunitas,UMUM,2025,177
+sumber,Ormas/komunitas,UMUM,2026,97
+sumber,Pemerintah pusat,EVENT KHUSUS,2025,10
+sumber,Pemerintah pusat,GUBERNUR/WAKIL GUBERNUR,2025,3
+sumber,Pemerintah pusat,LAINNYA,2025,4
+sumber,Pemerintah pusat,LAINNYA,2026,1
+sumber,Pemerintah pusat,OLAHRAGA,2026,5
+sumber,Pemerintah pusat,SETDA/PERANGKAT DAERAH,2025,7
+sumber,Pemerintah pusat,UMUM,2025,264
+sumber,Pemerintah pusat,UMUM,2026,83
+sumber,Pemkab/Pemkot,EVENT KHUSUS,2025,183
+sumber,Pemkab/Pemkot,GUBERNUR/WAKIL GUBERNUR,2025,7
+sumber,Pemkab/Pemkot,GUBERNUR/WAKIL GUBERNUR,2026,1
+sumber,Pemkab/Pemkot,LAINNYA,2025,2
+sumber,Pemkab/Pemkot,LAINNYA,2026,1
+sumber,Pemkab/Pemkot,OLAHRAGA,2025,49
+sumber,Pemkab/Pemkot,OLAHRAGA,2026,34
+sumber,Pemkab/Pemkot,SETDA/PERANGKAT DAERAH,2025,93
+sumber,Pemkab/Pemkot,SETDA/PERANGKAT DAERAH,2026,18
+sumber,Pemkab/Pemkot,UMUM,2025,1775
+sumber,Pemkab/Pemkot,UMUM,2026,614
+sumber,TNI/Polri/penegak hukum,EVENT KHUSUS,2025,1
+sumber,TNI/Polri/penegak hukum,LAINNYA,2025,2
+sumber,TNI/Polri/penegak hukum,OLAHRAGA,2025,6
+sumber,TNI/Polri/penegak hukum,OLAHRAGA,2026,4
+sumber,TNI/Polri/penegak hukum,SETDA/PERANGKAT DAERAH,2025,2
+sumber,TNI/Polri/penegak hukum,UMUM,2025,193
+sumber,TNI/Polri/penegak hukum,UMUM,2026,50
+topik,Belum terkelompok,EVENT KHUSUS,2025,31
+topik,Belum terkelompok,EVENT KHUSUS,2026,8
+topik,Belum terkelompok,GUBERNUR/WAKIL GUBERNUR,2025,35
+topik,Belum terkelompok,GUBERNUR/WAKIL GUBERNUR,2026,21
+topik,Belum terkelompok,LAINNYA,2025,3
+topik,Belum terkelompok,LAINNYA,2026,5
+topik,Belum terkelompok,OLAHRAGA,2025,41
+topik,Belum terkelompok,OLAHRAGA,2026,29
+topik,Belum terkelompok,SETDA/PERANGKAT DAERAH,2025,59
+topik,Belum terkelompok,SETDA/PERANGKAT DAERAH,2026,18
+topik,Belum terkelompok,UMUM,2025,696
+topik,Belum terkelompok,UMUM,2026,263
+topik,Bencana & lingkungan,EVENT KHUSUS,2025,1
+topik,Bencana & lingkungan,EVENT KHUSUS,2026,1
+topik,Bencana & lingkungan,GUBERNUR/WAKIL GUBERNUR,2025,5
+topik,Bencana & lingkungan,GUBERNUR/WAKIL GUBERNUR,2026,2
+topik,Bencana & lingkungan,LAINNYA,2025,2
+topik,Bencana & lingkungan,SETDA/PERANGKAT DAERAH,2025,48
+topik,Bencana & lingkungan,SETDA/PERANGKAT DAERAH,2026,31
+topik,Bencana & lingkungan,UMUM,2025,145
+topik,Bencana & lingkungan,UMUM,2026,59
+topik,"Budaya, wisata & keagamaan",EVENT KHUSUS,2025,104
+topik,"Budaya, wisata & keagamaan",EVENT KHUSUS,2026,37
+topik,"Budaya, wisata & keagamaan",GUBERNUR/WAKIL GUBERNUR,2025,28
+topik,"Budaya, wisata & keagamaan",GUBERNUR/WAKIL GUBERNUR,2026,15
+topik,"Budaya, wisata & keagamaan",LAINNYA,2025,4
+topik,"Budaya, wisata & keagamaan",LAINNYA,2026,11
+topik,"Budaya, wisata & keagamaan",OLAHRAGA,2025,1
+topik,"Budaya, wisata & keagamaan",OLAHRAGA,2026,7
+topik,"Budaya, wisata & keagamaan",SETDA/PERANGKAT DAERAH,2025,17
+topik,"Budaya, wisata & keagamaan",SETDA/PERANGKAT DAERAH,2026,7
+topik,"Budaya, wisata & keagamaan",UMUM,2025,305
+topik,"Budaya, wisata & keagamaan",UMUM,2026,136
+topik,Digital & informasi,GUBERNUR/WAKIL GUBERNUR,2025,4
+topik,Digital & informasi,GUBERNUR/WAKIL GUBERNUR,2026,4
+topik,Digital & informasi,LAINNYA,2025,3
+topik,Digital & informasi,LAINNYA,2026,3
+topik,Digital & informasi,OLAHRAGA,2026,1
+topik,Digital & informasi,SETDA/PERANGKAT DAERAH,2025,76
+topik,Digital & informasi,SETDA/PERANGKAT DAERAH,2026,21
+topik,Digital & informasi,UMUM,2025,264
+topik,Digital & informasi,UMUM,2026,145
+topik,"Ekonomi, UMKM & keuangan",EVENT KHUSUS,2025,9
+topik,"Ekonomi, UMKM & keuangan",EVENT KHUSUS,2026,2
+topik,"Ekonomi, UMKM & keuangan",GUBERNUR/WAKIL GUBERNUR,2025,63
+topik,"Ekonomi, UMKM & keuangan",GUBERNUR/WAKIL GUBERNUR,2026,43
+topik,"Ekonomi, UMKM & keuangan",LAINNYA,2025,4
+topik,"Ekonomi, UMKM & keuangan",LAINNYA,2026,5
+topik,"Ekonomi, UMKM & keuangan",OLAHRAGA,2025,15
+topik,"Ekonomi, UMKM & keuangan",OLAHRAGA,2026,6
+topik,"Ekonomi, UMKM & keuangan",SETDA/PERANGKAT DAERAH,2025,56
+topik,"Ekonomi, UMKM & keuangan",SETDA/PERANGKAT DAERAH,2026,23
+topik,"Ekonomi, UMKM & keuangan",UMUM,2025,858
+topik,"Ekonomi, UMKM & keuangan",UMUM,2026,430
+topik,"Hukum, keamanan & politik",GUBERNUR/WAKIL GUBERNUR,2025,6
+topik,"Hukum, keamanan & politik",GUBERNUR/WAKIL GUBERNUR,2026,4
+topik,"Hukum, keamanan & politik",OLAHRAGA,2026,2
+topik,"Hukum, keamanan & politik",SETDA/PERANGKAT DAERAH,2025,12
+topik,"Hukum, keamanan & politik",SETDA/PERANGKAT DAERAH,2026,2
+topik,"Hukum, keamanan & politik",UMUM,2025,152
+topik,"Hukum, keamanan & politik",UMUM,2026,48
+topik,Infrastruktur & transportasi,EVENT KHUSUS,2025,1
+topik,Infrastruktur & transportasi,GUBERNUR/WAKIL GUBERNUR,2025,11
+topik,Infrastruktur & transportasi,GUBERNUR/WAKIL GUBERNUR,2026,8
+topik,Infrastruktur & transportasi,LAINNYA,2025,1
+topik,Infrastruktur & transportasi,LAINNYA,2026,1
+topik,Infrastruktur & transportasi,OLAHRAGA,2025,51
+topik,Infrastruktur & transportasi,SETDA/PERANGKAT DAERAH,2025,30
+topik,Infrastruktur & transportasi,SETDA/PERANGKAT DAERAH,2026,9
+topik,Infrastruktur & transportasi,UMUM,2025,379
+topik,Infrastruktur & transportasi,UMUM,2026,205
+topik,Kesehatan,EVENT KHUSUS,2025,5
+topik,Kesehatan,EVENT KHUSUS,2026,1
+topik,Kesehatan,GUBERNUR/WAKIL GUBERNUR,2025,6
+topik,Kesehatan,GUBERNUR/WAKIL GUBERNUR,2026,6
+topik,Kesehatan,LAINNYA,2025,1
+topik,Kesehatan,OLAHRAGA,2025,5
+topik,Kesehatan,OLAHRAGA,2026,2
+topik,Kesehatan,SETDA/PERANGKAT DAERAH,2025,36
+topik,Kesehatan,SETDA/PERANGKAT DAERAH,2026,24
+topik,Kesehatan,UMUM,2025,309
+topik,Kesehatan,UMUM,2026,111
+topik,Olahraga,EVENT KHUSUS,2025,221
+topik,Olahraga,GUBERNUR/WAKIL GUBERNUR,2025,2
+topik,Olahraga,GUBERNUR/WAKIL GUBERNUR,2026,2
+topik,Olahraga,OLAHRAGA,2025,119
+topik,Olahraga,OLAHRAGA,2026,58
+topik,Olahraga,SETDA/PERANGKAT DAERAH,2025,1
+topik,Olahraga,SETDA/PERANGKAT DAERAH,2026,1
+topik,Olahraga,UMUM,2025,40
+topik,Olahraga,UMUM,2026,14
+topik,Pangan & pertanian,EVENT KHUSUS,2025,3
+topik,Pangan & pertanian,GUBERNUR/WAKIL GUBERNUR,2025,15
+topik,Pangan & pertanian,GUBERNUR/WAKIL GUBERNUR,2026,11
+topik,Pangan & pertanian,LAINNYA,2025,1
+topik,Pangan & pertanian,LAINNYA,2026,3
+topik,Pangan & pertanian,SETDA/PERANGKAT DAERAH,2025,9
+topik,Pangan & pertanian,SETDA/PERANGKAT DAERAH,2026,6
+topik,Pangan & pertanian,UMUM,2025,315
+topik,Pangan & pertanian,UMUM,2026,112
+topik,Pemerintahan & kelembagaan,EVENT KHUSUS,2025,4
+topik,Pemerintahan & kelembagaan,EVENT KHUSUS,2026,1
+topik,Pemerintahan & kelembagaan,GUBERNUR/WAKIL GUBERNUR,2025,29
+topik,Pemerintahan & kelembagaan,GUBERNUR/WAKIL GUBERNUR,2026,12
+topik,Pemerintahan & kelembagaan,LAINNYA,2025,6
+topik,Pemerintahan & kelembagaan,LAINNYA,2026,2
+topik,Pemerintahan & kelembagaan,OLAHRAGA,2025,1
+topik,Pemerintahan & kelembagaan,OLAHRAGA,2026,3
+topik,Pemerintahan & kelembagaan,SETDA/PERANGKAT DAERAH,2025,20
+topik,Pemerintahan & kelembagaan,SETDA/PERANGKAT DAERAH,2026,7
+topik,Pemerintahan & kelembagaan,UMUM,2025,320
+topik,Pemerintahan & kelembagaan,UMUM,2026,110
+topik,Pendidikan & SDM,EVENT KHUSUS,2025,4
+topik,Pendidikan & SDM,GUBERNUR/WAKIL GUBERNUR,2025,23
+topik,Pendidikan & SDM,GUBERNUR/WAKIL GUBERNUR,2026,8
+topik,Pendidikan & SDM,LAINNYA,2025,4
+topik,Pendidikan & SDM,LAINNYA,2026,1
+topik,Pendidikan & SDM,OLAHRAGA,2025,2
+topik,Pendidikan & SDM,OLAHRAGA,2026,7
+topik,Pendidikan & SDM,SETDA/PERANGKAT DAERAH,2025,56
+topik,Pendidikan & SDM,SETDA/PERANGKAT DAERAH,2026,22
+topik,Pendidikan & SDM,UMUM,2025,576
+topik,Pendidikan & SDM,UMUM,2026,208
+topik,Penghargaan & prestasi,EVENT KHUSUS,2025,4
+topik,Penghargaan & prestasi,EVENT KHUSUS,2026,4
+topik,Penghargaan & prestasi,GUBERNUR/WAKIL GUBERNUR,2025,5
+topik,Penghargaan & prestasi,GUBERNUR/WAKIL GUBERNUR,2026,4
+topik,Penghargaan & prestasi,OLAHRAGA,2025,14
+topik,Penghargaan & prestasi,OLAHRAGA,2026,14
+topik,Penghargaan & prestasi,SETDA/PERANGKAT DAERAH,2025,7
+topik,Penghargaan & prestasi,UMUM,2025,112
+topik,Penghargaan & prestasi,UMUM,2026,17
+topik,Sosial & kemasyarakatan,EVENT KHUSUS,2025,9
+topik,Sosial & kemasyarakatan,GUBERNUR/WAKIL GUBERNUR,2025,30
+topik,Sosial & kemasyarakatan,GUBERNUR/WAKIL GUBERNUR,2026,15
+topik,Sosial & kemasyarakatan,LAINNYA,2025,1
+topik,Sosial & kemasyarakatan,LAINNYA,2026,6
+topik,Sosial & kemasyarakatan,OLAHRAGA,2025,2
+topik,Sosial & kemasyarakatan,OLAHRAGA,2026,6
+topik,Sosial & kemasyarakatan,SETDA/PERANGKAT DAERAH,2025,69
+topik,Sosial & kemasyarakatan,SETDA/PERANGKAT DAERAH,2026,12
+topik,Sosial & kemasyarakatan,UMUM,2025,553
+topik,Sosial & kemasyarakatan,UMUM,2026,227
