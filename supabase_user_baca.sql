@@ -1,15 +1,3 @@
--- ============================================================
--- supabase_user_baca.sql | User database khusus BACA untuk dashboard
---
--- Kenapa: dashboard hanya membaca data (SELECT). Kalau dashboard memakai
--- user ini, password yang tersimpan di Streamlit Cloud tidak bisa dipakai
--- untuk mengubah atau menghapus data, sekalipun bocor.
---
--- Cara pakai: jalankan SEKALI di Supabase -> SQL Editor, setelah
--- 02_load.py dan 04_text_mining.py selesai. Ganti dulu passwordnya.
--- Di Streamlit Cloud, isi DB_USER = "dashboard_baca.KODEPROYEK".
--- ============================================================
-
 CREATE ROLE dashboard_baca LOGIN PASSWORD 'GANTI_DENGAN_PASSWORD_KUAT';
 
 -- Boleh melihat isi schema public dan membaca semua tabel/view yang ada sekarang
